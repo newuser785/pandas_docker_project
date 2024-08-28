@@ -9,17 +9,17 @@
 
 ### Структура проекта
 
-├── Dockerfile  # Описывает создание Docker-образа | # Устанавливает Python и зависимости | # Запускает `app.py`
+├── Dockerfile  | Файл описания Docker-образа:
 
-├── README.md
+├── README.md   | Файл документации проекта:
+ 
+├── app.py      | Основной скрипт приложения на Python:
 
-├── app.py
+├── data.csv    | CSV-файл с данными о сотрудниках:
 
-├── data.csv
+├── docker desktop.jpg  | Вывод в docker
 
-├── docker desktop.jpg
-
-├── terminal.jpg
+├── terminal.jpg        | Вывод в terminal'e
 
 ### Предварительные требования
 
