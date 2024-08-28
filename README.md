@@ -66,3 +66,7 @@ docker push doclinx/pandas_app:latest
 ├── docker desktop.jpg
 
 ├── terminal.jpg
+
+### Ссылка на Docker Hub
+
+Docker-образ doclinx/pandas_app доступен по этой ссылке https://hub.docker.com/r/doclinx/pandas_app/tags
